@@ -20,7 +20,7 @@
   <a href="#getting-started">Getting started</a>&nbsp;|&nbsp;<a href="#documentation">Documentation</a>&nbsp;|&nbsp;<a href="#demos-and-examples">Demos and examples</a>&nbsp;|&nbsp;<a href="#browser-support">Browser support</a>
 </p>
 
-## Getting started
+## Getting started ...
 
 ### Download
 
